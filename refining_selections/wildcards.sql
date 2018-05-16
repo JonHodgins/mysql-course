@@ -1,0 +1,1 @@
+SELECT phone_number FROM numbers WHERE phone_number LIKE '(___)___-____';
