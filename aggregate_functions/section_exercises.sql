@@ -1,3 +1,5 @@
+/* Section 9: Aggregate Functions Exercises */
+
 /* Print the number of books in the database */
 SELECT
   COUNT(book_id)
