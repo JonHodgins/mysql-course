@@ -1,4 +1,4 @@
-/* Section 8: Refining Solutions Exercises */
+/* Section 8: Refining Selections Exercises */
 
 /* Select all story collections */
 SELECT title 
