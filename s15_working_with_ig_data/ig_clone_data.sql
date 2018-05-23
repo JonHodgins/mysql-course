@@ -1,5 +1,5 @@
 /* Note: Disregard my schema from s14. Needed to use instructors exact code
- * properly make use of the data set being inserted 
+ * to properly make use of the data set being inserted 
  */
 
 CREATE DATABASE insta_clone;
