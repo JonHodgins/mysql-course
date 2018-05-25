@@ -1,0 +1,13 @@
+<link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400' rel='stylesheet'>
+<link rel='stylesheet' href='/app.css'>
+
+<div class='flex-container'>
+    <div class='container'>
+        <h1>Spicy Signup Sheet</h1>
+        <p class='lead'>Please enter your email to join <strong><%=data%></strong> others on our waitlist. Stay spicy.</p>
+        <form method='POST' action='/register'>
+            <input type='text' name='email' class='form' placeholder='Enter Your Email'>
+            <button>Make me spicy</button>
+        </form>
+    </div>
+</div>
